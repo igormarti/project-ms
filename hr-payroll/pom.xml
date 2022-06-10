@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.imr</groupId>
-	<artifactId>hr-worker</artifactId>
+	<artifactId>hr-payroll</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>hr-payroll</name>
 	<description>PayRoll Microservice</description>
