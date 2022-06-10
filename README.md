@@ -58,7 +58,7 @@ mvnw clean package -DskipTests
 
 docker build -t hr-worker:v1 .
 
-docker run -P --network hr-net hr-worker:v1
+docker run -d -P --network hr-net hr-worker:v1
 ```
 
 ## hr-user
